@@ -1,0 +1,1 @@
+na_count <- colSums(is.na(combined))
