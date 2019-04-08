@@ -1,0 +1,6 @@
+head(sat_results)
+head(ap_2010)
+head(class_size)
+head(demographics)
+head(graduation)
+head(hs_directory)
