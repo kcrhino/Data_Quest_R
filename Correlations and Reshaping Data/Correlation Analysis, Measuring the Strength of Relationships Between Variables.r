@@ -1,0 +1,1 @@
+cor(combined$avg_sat_score, combined$asian_per, use = "pairwise.complete.obs")
